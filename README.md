@@ -19,7 +19,7 @@
 
 ### 3-1) 기능 세부 설명 - Transfer money
 #### ![image](https://user-images.githubusercontent.com/63658525/108591275-3aeacb80-73ab-11eb-94ba-84af98ccaf22.png)
-##### 위와 같이 Jessica로부터 Jonas에게 100$을 보내면, (Jonas의 아이디가 jd)
+##### 위와 같이 Jessica로부터 Jonas에게 100$을 보내면,
 
 #### ![image](https://user-images.githubusercontent.com/63658525/108591290-56ee6d00-73ab-11eb-94e2-00801440e367.png)
 ##### Jessica의 통장에서 100$이 빠져나갔으며 로그인 시간이 연장된 것을 알 수 있다. 
